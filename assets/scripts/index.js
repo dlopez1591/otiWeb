@@ -1,9 +1,10 @@
-const { createApp, ref } = Vue
-createApp({
-  setup() {
-    
-    return {
+ const { createApp, ref } = Vue
+
+  createApp({
+    setup() {
       
+      return {
+        
+      }
     }
-  }
-}).mount('#app')
+  }).mount('#app')

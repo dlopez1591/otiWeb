@@ -2,3 +2,10 @@
 *{
     font-family: "Roboto", sans-serif;
 }
+.bgNavBar{
+    background-color: #EE6725;
+}
+#textNavBar{
+    font-size: 25px;
+    color: #003567;
+}
